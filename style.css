@@ -1,0 +1,52 @@
+/* .MainDiv    {
+    color: black;
+    text-align: center;
+}
+.imagesDiv  {
+    color: black;
+    display: flex;
+    justify-content: center;
+    border: 3px black solid;
+    width: 200px;
+    height: 160px;
+}
+.box    {
+    border: black 3px solid;
+    justify-content: center;
+    width: 580px;
+    height: 248px;
+} */
+
+.main_box   {
+    border: 3px black solid;
+    width: 715px;
+    height: 500px;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.p1 {
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+
+.img_all    {
+    display: flex;
+    margin-top: 218px;
+}
+
+.img1   {
+    width: 150px;
+    height: 200px;
+    display: flex;
+    border: 3px black solid;
+    padding-right: 200px;
+}
+
+.img2   {
+    width: 150px;
+    height: 200px;
+    display: flex;
+    border: 3px black solid;
+}
